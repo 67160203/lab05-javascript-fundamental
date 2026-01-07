@@ -1,12 +1,10 @@
 # Week 5: JavaScript Fundamentals - Lab Summary
 
-## 📊📊 ปฏิบัติการที่สํ
-
-าเร็จ
+## 📊📊 ปฏิบัติการที่สำเร็จ
 
 ### Activity 1: Variables & Data Types ✅
 
-- ใช ้`const` และ `let` อย่างถูกต ้อง
+- ใช ้`const` และ `let` อย่างถูกต้อง
 - Primitive types: number, string, boolean, null, undefined
 - Object types: array, object, function
 - Type coercion: implicit vs explicit
