@@ -4,21 +4,21 @@
 
 ### Result
 
-=== Challenge: Person Object ===
-Student object:
-{
-firstName: 'Alice',
-lastName: 'Smith',
-age: 20,
-gpa: 3.8,
-courses: [ 'HTML', 'CSS', 'JavaScript' ],
-isActive: true,
-getFullName: [Function: getFullName],
-getInfo: [Function: getInfo]
-}
-Full name: Alice Smith
-Info: Alice Smith, Age: 20, GPA: 3.8
-Courses: HTML, CSS, JavaScript
+=== Challenge: Person Object ===/n
+Student object:/n
+{/n
+firstName: 'Alice',/n
+lastName: 'Smith',/n
+age: 20,/n
+gpa: 3.8,/n
+courses: [ 'HTML', 'CSS', 'JavaScript' ],/n
+isActive: true,/n
+getFullName: [Function: getFullName],/n
+getInfo: [Function: getInfo]/n
+}/n
+Full name: Alice Smith/n
+Info: Alice Smith, Age: 20, GPA: 3.8/n
+Courses: HTML, CSS, JavaScript/n
 
 ### Explain
 
